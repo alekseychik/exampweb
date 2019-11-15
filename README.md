@@ -1,2 +1,2 @@
-#Headline for the repositiry
-Example of the website
+# Headline for the repositiry
+**Example** of the website
